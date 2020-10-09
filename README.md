@@ -1,5 +1,5 @@
 ### Hi there 
-[![PIPIPIG233666 github stats](https://github-readme-stats.vercel.app/api?username=ppooopppooo)](https://github.com/ppooopppooo)
+[![ppooopppooo github stats](https://github-readme-stats.vercel.app/api?username=ppooopppooo)](https://github.com/ppooopppooo)
 
 <!--
 **ppooopppooo/ppooopppooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
